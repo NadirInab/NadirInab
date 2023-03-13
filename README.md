@@ -1,5 +1,5 @@
 <center>
-![App Screenshot](https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg)
+       <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/top_full_stack.jpg" width="500" height="600">
        <h1 align="center"> <i> 🌗 Welcome To Github Profile </i>  👨🏽‍💻 </h1>
 </center>
 
@@ -21,7 +21,7 @@
 -  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadirinab/)
 - #### 📫 Email   :
 - 
- ## A taste of my Projects : 
+ ## My projects: a glimpse : 
  <center>
        <table>
 <tbody>
@@ -32,7 +32,7 @@
 <td style="height: 22px;">QR-Generator React Js</td>
 </tr>
 <tr style="height: 22px;">
-  <td style="height: 22px;">(https://dotodone.surge.sh/)</td>
+  <td style="height: 22px;">https://dotodone.surge.sh/</td>
   <td style="height: 22px;">https://todoschedule.surge.sh/</td>
 <td style="height: 22px;">https://newyearyoucode.surge.sh/</td>
   <td style="height: 22px;">https://qr-codegenerator.surge.sh/</td>
