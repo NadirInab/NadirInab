@@ -31,7 +31,7 @@
 <td style="height: 22px;">QR Code Generator React Js</td>
 </tr>
 <tr style="height: 22px;">
-  <td style="height: 22px;">[](https://dotodone.surge.sh/)</td>
+  <td style="height: 22px;">(https://dotodone.surge.sh/)</td>
   <td style="height: 22px;"><a>https://todoschedule.surge.sh/</a></td>
 <td style="height: 22px;"><a>https://newyearyoucode.surge.sh/</a></td>
   <td style="height: 22px;"><a>https://qr-codegenerator.surge.sh/</a></td>
