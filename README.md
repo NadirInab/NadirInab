@@ -1,6 +1,6 @@
 <center>
-        ![hhgh](https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp)
-       <img src="https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp" width="600" height="400">
+<!--         ![hhgh](https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp) ♟️
+       <img src="https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp" width="600" height="400"> -->
        <h1 align="center"> <i> 🌗 Welcome To Github Profile </i>  👨🏽‍💻 </h1>
 </center>
 
@@ -18,10 +18,8 @@
         I.try      = " EveryDay To Be the best version of myself ." ;
  ```
 
-## Get in Touch : 
--  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadirinab/)
-- #### 📫 Email   :
-- 
+### 📺
+
  ## My projects: a glimpse : 
  <center>
        <table>
@@ -41,3 +39,8 @@
 </tbody>
 </table>
  </center>
+ 
+ ## Get in Touch : 
+-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadirinab/)
+- #### 📫 Email   :
+- #### 
