@@ -9,13 +9,13 @@
  ```javascript
 
  const I    = {} ; 
-        I.am       = " A positive, enthusiastic and competent Web Developer" ;
-        I.favQuote = " The supreme irony of life is that hardly anyone gets out of it alive. " ;
+        I.am       = "A positive, enthusiastic and competent Web Developer" ;
+        I.favQuote = "Questioning the fabric of reality is not an act of defiance, but a courageous pursuit of uncovering the hidden truths that shape our existence." ;
         I.favJoke  = " A SQL Query walks into a bar, in one corner there are two tables. The Query walks up and ask : Mind if I join you ?"
         I.usedTo   = [" study Physics ", " Teach Physics ", " Run Marathon "] ;
         I.love     = [" Familly ", " Coding ", " My-Laptop ", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
-        I.workWith = [" Good People ",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel", "SQL/MySQL"], ["CSS","Tailwindcss","Bootstrap"]] ;
-        I.try      = " EveryDay To Be the best version of myself ." ;
+        I.workWith = [" Good People ",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"]] ;
+        I.try      = "EveryDay To Be the best version of myself ." ;
  ```
 
 ### 📺
