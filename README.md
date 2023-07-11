@@ -6,6 +6,7 @@
 </center>
 
 ## About me 🙋‍♂️ : 
+![GIF](https://media.giphy.com/media/HZEvIN2lNUaOITLe6a/giphy.gif)
 
  ```javascript
 
