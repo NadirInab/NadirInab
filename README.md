@@ -20,8 +20,9 @@
         I.workWith = [" Good People ",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"]] ;
         I.try      = "EveryDay To Be the best version of myself ." ;
  ```
-
 ## 
+<a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
+
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -68,3 +69,7 @@
  ## Get in Touch : 
 -  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadirinab/)
 - #### 📫 Email   : nadir.inab.dev@gmail.com
+
+  <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
