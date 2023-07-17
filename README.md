@@ -6,7 +6,7 @@
        <h1 align="center"> <i> Hi👋 I'm <b>Nadir Inab</b> , Welcome To my Github </i> 👨🏽‍💻 </h1>
 </center>
 
-## About me 🙋‍♂️ : 
+## About me 🙋‍♂️ : ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 <img src="https://media.giphy.com/media/HZEvIN2lNUaOITLe6a/giphy.gif" alt="GIF" width="100%">
 
  ```javascript
