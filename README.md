@@ -6,7 +6,7 @@
        <h1 align="center"> <i> Hi👋 I'm <b>Nadir Inab</b> , Welcome To my Github </i> 👨🏽‍💻 </h1>
 </center>
 
-## About me 🙋‍♂️ : ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
+## About me 🙋‍♂️ : 
 <img src="https://media.giphy.com/media/HZEvIN2lNUaOITLe6a/giphy.gif" alt="GIF" width="100%">
 
  ```javascript
@@ -14,11 +14,11 @@
  const I    = {} ; 
         I.am       = "A positive, enthusiastic and competent Web Developer" ;
         I.favQuote = "Questioning the fabric of reality is not an act of defiance, but a courageous pursuit of uncovering the hidden truths that shape our existence." ;
-        I.favJoke  = " A SQL Query walks into a bar, in one corner there are two tables. The Query walks up and ask : Mind if I join you ?"
-        I.usedTo   = [" study Physics ", " Teach Physics ", " Run Marathon "] ;
-        I.love     = [" Familly ", " Coding ", " My-Laptop ", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
-        I.workWith = [" Good People ",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"]] ;
-        I.try      = "EveryDay To Be the best version of myself ." ;
+        I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
+        I.usedTo   = ["study Physics", "Teach Physics", "Run Marathon"] ;
+        I.love     = ["Familly", "Coding", "My-Laptop", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
+        I.workWith = ["Good People",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"], "Docker"] ;
+        I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
 ## 
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
