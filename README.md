@@ -1,9 +1,11 @@
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
+<div id="header" align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="600"/>
+       </a>
+
  
-<center>
-<!--         ![hhgh](https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp) ♟️ 🌗
-       <img src="https://cdn.vectorstock.com/i/1000x1000/39/11/prog…oftware-development-web-page-vector-30433911.webp" width="600" height="400"> -->
-       <h1 align="center"> <i> Hi👋 I'm <b>Nadir Inab</b> , Welcome To my Github </i> 👨🏽‍💻 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Welcome+To+my+Github+👨🏽‍💻)](https://git.io/typing-svg) 
+    </div>
+  </div>
 </center>
 
 ## About me 🙋‍♂️ : 
