@@ -1,10 +1,15 @@
+<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="1000" height="500"/>
+
 <div id="header" align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="600"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Welcome+To+my+Github+👨🏽‍💻)](https://git.io/typing-svg) 
+  
+</div>
+
+<div id="header" align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="150"/>
        </a>
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Welcome+To+my+Github+👨🏽‍💻)](https://git.io/typing-svg) 
-    </div>
   </div>
 </center>
 
@@ -19,7 +24,7 @@
         I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
         I.usedTo   = ["study Physics", "Teach Physics", "Run Marathon"] ;
         I.love     = ["Familly", "Coding", "My-Laptop", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
-        I.workWith = ["Good People",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"], "Docker"] ;
+        I.workWith = ["Good People",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"], ["JAVA", "JEE"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
 ## 
