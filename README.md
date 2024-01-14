@@ -24,7 +24,7 @@
         I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
         I.usedTo   = ["study Physics", "Teach Physics", "Run Marathon"] ;
         I.love     = ["Familly", "Coding", "My-Laptop", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
-        I.workWith = ["Good People",["JavaScript", "React Js", "Vue JS"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"], ["JAVA", "JEE"], "Docker"] ;
+        I.workWith = ["Good People",["JavaScript", "React Js", "Vue JS", "Angular", "ngrx"], ["PHP", "Laravel","Symfony","SQL/MySQL","Redis"], ["CSS","Tailwindcss","Bootstrap"], ["JAVA", "Spring boot"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
 ## 
