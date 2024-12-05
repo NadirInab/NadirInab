@@ -28,7 +28,6 @@
         I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
 ## 
-<a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
